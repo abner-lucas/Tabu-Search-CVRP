@@ -1,0 +1,2 @@
+# Pesquisa Tuba no Problema de Roteamento de Veículos
+Resolução do Problema de Roteamento de Veículos através da Meta-heurística Pesquisa Tabu que guiará este algoritmo de busca local na exploração contínua dentro de um espaço de busca, a partir de uma solução inicial válida aleatória avançando para uma outra solução na sua vizinhança até satisfazer o número máximo de iterações como critério de parada.
