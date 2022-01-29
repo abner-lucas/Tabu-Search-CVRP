@@ -1,9 +1,0 @@
-Quantidade de rotas calculadas: 2
-
-Rota 1: 0 -> 10 -> 21 -> 19 -> 25 -> 13 -> 24 -> 17 -> 11 -> 14 -> 18 -> 28 -> 26 -> 12 -> 27 -> 20 -> 15 -> 23 -> 16 -> 33 -> 29 -> 31 -> 34 -> 32 -> 30 -> 35 -> 4 -> 5 -> 3 -> 2 -> 6 -> 1 -> 0
-Distância: 125197.80km
-Peso máximo atingido: 175kg
-
-Rota 2: 0 -> 9 -> 22 -> 8 -> 7 -> 0
-Distância: 5146.00km
-Peso máximo atingido: 19kg
