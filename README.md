@@ -1,5 +1,4 @@
 # Pesquisa Tabu no Problema de Roteamento de Veículos (CVRP)
-![Tabu Search](imagem.png)
 Resolução do Problema de Roteamento de Veículos através da Meta-heurística Pesquisa Tabu que guia o algoritmo de busca local na exploração contínua dentro de um espaço de busca, a partir de uma solução inicial válida aleatória, avançando para outra solução na sua vizinhança até satisfazer o critério de parada.
 
 ## Funcionalidades
